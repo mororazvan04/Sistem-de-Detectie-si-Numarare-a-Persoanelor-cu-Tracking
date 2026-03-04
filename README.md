@@ -8,6 +8,7 @@
 <br>
 
 **Student:** Moroșanu Răzvan
+
 **Locație / An:** BRAȘOV, 2025-2026  
 
 ---

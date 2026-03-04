@@ -7,8 +7,7 @@
 
 <br>
 
-**Student:** Moroșanu Răzvan (Gr. 4LF342A, TI)  
-**Profesor coordonator:** Dr. ing. Bogdan Sibișan Trăsnea  
+**Student:** Moroșanu Răzvan
 **Locație / An:** BRAȘOV, 2025-2026  
 
 ---

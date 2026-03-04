@@ -1,1 +1,1 @@
-# Sistem-de-Detec-ie-i-Num-rare-a-Persoanelor-cu-Tracking
+# Sistem-de-Detectie-si-Numarare-a-Persoanelor-cu-Tracking
